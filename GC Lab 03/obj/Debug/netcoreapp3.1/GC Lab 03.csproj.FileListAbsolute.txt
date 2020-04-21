@@ -1,0 +1,13 @@
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\bin\Debug\netcoreapp3.1\GC Lab 03.exe
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\bin\Debug\netcoreapp3.1\GC Lab 03.deps.json
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\bin\Debug\netcoreapp3.1\GC Lab 03.runtimeconfig.json
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\bin\Debug\netcoreapp3.1\GC Lab 03.runtimeconfig.dev.json
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\bin\Debug\netcoreapp3.1\GC Lab 03.dll
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\bin\Debug\netcoreapp3.1\GC Lab 03.pdb
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\obj\Debug\netcoreapp3.1\GC Lab 03.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\obj\Debug\netcoreapp3.1\GC Lab 03.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\obj\Debug\netcoreapp3.1\GC Lab 03.AssemblyInfo.cs
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\obj\Debug\netcoreapp3.1\GC Lab 03.dll
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\obj\Debug\netcoreapp3.1\GC Lab 03.pdb
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\obj\Debug\netcoreapp3.1\GC Lab 03.genruntimeconfig.cache
+C:\Users\millr\source\repos\GC Lab 03\GC Lab 03\obj\Debug\netcoreapp3.1\GC Lab 03.csprojAssemblyReference.cache
